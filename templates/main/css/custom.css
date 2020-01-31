@@ -1,0 +1,20 @@
+.responsive-img {
+    width: 100%;
+    max-height: 360px;
+    height: auto;
+}
+.fa-heart {
+    color:#C3312F;
+}
+.fa-facebook-square {
+    color: #475595;
+}
+.fa-instagram {
+    color:#8D31BD;
+}
+.fa-youtube {
+    color:#C3312F;
+}
+.fa-snapchat-square {
+    color:#FFFC00;
+}
